@@ -46,7 +46,7 @@ Developers will build custom features as modules that live in the `skills/` fold
 
 A skill module should be in the format:
 
-```
+```javascript
 module.exports = function(controller) {
 
     // add event handlers to controller
